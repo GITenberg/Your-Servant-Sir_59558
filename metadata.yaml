@@ -1,11 +1,16 @@
 _repo: Your-Servant-Sir_59558
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 59558-h/images/cover.jpg
 creator:
   author:
     agent_name: Boren, Sol
     gutenberg_agent_id: '50508'
     url: http://www.gutenberg.org/2009/agents/50508
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59558#Your-Servant-Sir
 gutenberg_issued: '2019-05-20'
 gutenberg_type: Text
 identifiers:
